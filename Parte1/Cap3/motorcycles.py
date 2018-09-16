@@ -37,3 +37,9 @@ print(motorcycles)
 
 # mostra o item removido da lista, no caso a moto suzuki
 print(popped_motorcycles)
+
+
+# métodos de remoção de um item da lista
+# del motorcycles['posição']
+# motorcycles.pop('posição')
+# motorcycles.remove('item') # no caso o texto que representa aquele item
